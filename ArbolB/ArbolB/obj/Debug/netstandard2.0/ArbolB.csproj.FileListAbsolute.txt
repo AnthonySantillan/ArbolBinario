@@ -1,0 +1,27 @@
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\ArbolB\ArbolB\bin\Debug\netstandard2.0\ArbolB.deps.json
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\ArbolB\ArbolB\bin\Debug\netstandard2.0\ArbolB.dll
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\ArbolB\ArbolB\bin\Debug\netstandard2.0\ArbolB.pdb
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\ArbolB\ArbolB\obj\Debug\netstandard2.0\ArbolB.csprojAssemblyReference.cache
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\ArbolB\ArbolB\obj\Debug\netstandard2.0\ArbolB.AssemblyInfoInputs.cache
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\ArbolB\ArbolB\obj\Debug\netstandard2.0\ArbolB.AssemblyInfo.cs
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\ArbolB\ArbolB\obj\Debug\netstandard2.0\ArbolB.csproj.CoreCompileInputs.cache
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\ArbolB\ArbolB\obj\Debug\netstandard2.0\ArbolB.dll
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\ArbolB\ArbolB\obj\Debug\netstandard2.0\ArbolB.pdb
+C:\Users\Kevin111\Documents\Tercero\Repositorios\ArbolB-Recursivo-05-01-2021\ArbolB\ArbolB\obj\Debug\netstandard2.0\ArbolB.csprojAssemblyReference.cache
+C:\Users\Kevin111\Documents\Tercero\Repositorios\ArbolB-Recursivo-05-01-2021\ArbolB\ArbolB\obj\Debug\netstandard2.0\ArbolB.AssemblyInfoInputs.cache
+C:\Users\Kevin111\Documents\Tercero\Repositorios\ArbolB-Recursivo-05-01-2021\ArbolB\ArbolB\obj\Debug\netstandard2.0\ArbolB.AssemblyInfo.cs
+C:\Users\Kevin111\Documents\Tercero\Repositorios\ArbolB-Recursivo-05-01-2021\ArbolB\ArbolB\obj\Debug\netstandard2.0\ArbolB.csproj.CoreCompileInputs.cache
+C:\Users\Kevin111\Documents\Tercero\Repositorios\ArbolB-Recursivo-05-01-2021\ArbolB\ArbolB\obj\Debug\netstandard2.0\ArbolB.dll
+C:\Users\Kevin111\Documents\Tercero\Repositorios\ArbolB-Recursivo-05-01-2021\ArbolB\ArbolB\obj\Debug\netstandard2.0\ArbolB.pdb
+C:\Users\Kevin111\Documents\Tercero\Repositorios\ArbolB-Recursivo-05-01-2021\ArbolB\ArbolB\bin\Debug\netstandard2.0\ArbolB.deps.json
+C:\Users\Kevin111\Documents\Tercero\Repositorios\ArbolB-Recursivo-05-01-2021\ArbolB\ArbolB\bin\Debug\netstandard2.0\ArbolB.dll
+C:\Users\Kevin111\Documents\Tercero\Repositorios\ArbolB-Recursivo-05-01-2021\ArbolB\ArbolB\bin\Debug\netstandard2.0\ArbolB.pdb
+C:\Users\hp\Source\Repos\ArbolBinario\ArbolB\ArbolB\bin\Debug\netstandard2.0\ArbolB.deps.json
+C:\Users\hp\Source\Repos\ArbolBinario\ArbolB\ArbolB\bin\Debug\netstandard2.0\ArbolB.dll
+C:\Users\hp\Source\Repos\ArbolBinario\ArbolB\ArbolB\bin\Debug\netstandard2.0\ArbolB.pdb
+C:\Users\hp\Source\Repos\ArbolBinario\ArbolB\ArbolB\obj\Debug\netstandard2.0\ArbolB.csprojAssemblyReference.cache
+C:\Users\hp\Source\Repos\ArbolBinario\ArbolB\ArbolB\obj\Debug\netstandard2.0\ArbolB.AssemblyInfoInputs.cache
+C:\Users\hp\Source\Repos\ArbolBinario\ArbolB\ArbolB\obj\Debug\netstandard2.0\ArbolB.AssemblyInfo.cs
+C:\Users\hp\Source\Repos\ArbolBinario\ArbolB\ArbolB\obj\Debug\netstandard2.0\ArbolB.csproj.CoreCompileInputs.cache
+C:\Users\hp\Source\Repos\ArbolBinario\ArbolB\ArbolB\obj\Debug\netstandard2.0\ArbolB.dll
+C:\Users\hp\Source\Repos\ArbolBinario\ArbolB\ArbolB\obj\Debug\netstandard2.0\ArbolB.pdb

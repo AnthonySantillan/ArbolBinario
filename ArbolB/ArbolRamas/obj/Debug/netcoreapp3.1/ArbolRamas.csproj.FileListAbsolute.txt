@@ -1,0 +1,16 @@
+C:\Users\hp\Source\Repos\ArbolBinario\ArbolB\ArbolGenealogico\bin\Debug\netcoreapp3.1\ArbolRamas.exe
+C:\Users\hp\Source\Repos\ArbolBinario\ArbolB\ArbolGenealogico\bin\Debug\netcoreapp3.1\ArbolRamas.deps.json
+C:\Users\hp\Source\Repos\ArbolBinario\ArbolB\ArbolGenealogico\bin\Debug\netcoreapp3.1\ArbolRamas.runtimeconfig.json
+C:\Users\hp\Source\Repos\ArbolBinario\ArbolB\ArbolGenealogico\bin\Debug\netcoreapp3.1\ArbolRamas.runtimeconfig.dev.json
+C:\Users\hp\Source\Repos\ArbolBinario\ArbolB\ArbolGenealogico\bin\Debug\netcoreapp3.1\ArbolRamas.dll
+C:\Users\hp\Source\Repos\ArbolBinario\ArbolB\ArbolGenealogico\bin\Debug\netcoreapp3.1\ArbolRamas.pdb
+C:\Users\hp\Source\Repos\ArbolBinario\ArbolB\ArbolGenealogico\bin\Debug\netcoreapp3.1\ArbolB.dll
+C:\Users\hp\Source\Repos\ArbolBinario\ArbolB\ArbolGenealogico\bin\Debug\netcoreapp3.1\ArbolB.pdb
+C:\Users\hp\Source\Repos\ArbolBinario\ArbolB\ArbolGenealogico\obj\Debug\netcoreapp3.1\ArbolRamas.csprojAssemblyReference.cache
+C:\Users\hp\Source\Repos\ArbolBinario\ArbolB\ArbolGenealogico\obj\Debug\netcoreapp3.1\ArbolRamas.AssemblyInfoInputs.cache
+C:\Users\hp\Source\Repos\ArbolBinario\ArbolB\ArbolGenealogico\obj\Debug\netcoreapp3.1\ArbolRamas.AssemblyInfo.cs
+C:\Users\hp\Source\Repos\ArbolBinario\ArbolB\ArbolGenealogico\obj\Debug\netcoreapp3.1\ArbolRamas.csproj.CoreCompileInputs.cache
+C:\Users\hp\Source\Repos\ArbolBinario\ArbolB\ArbolGenealogico\obj\Debug\netcoreapp3.1\ArbolRamas.csproj.CopyComplete
+C:\Users\hp\Source\Repos\ArbolBinario\ArbolB\ArbolGenealogico\obj\Debug\netcoreapp3.1\ArbolRamas.dll
+C:\Users\hp\Source\Repos\ArbolBinario\ArbolB\ArbolGenealogico\obj\Debug\netcoreapp3.1\ArbolRamas.pdb
+C:\Users\hp\Source\Repos\ArbolBinario\ArbolB\ArbolGenealogico\obj\Debug\netcoreapp3.1\ArbolRamas.genruntimeconfig.cache

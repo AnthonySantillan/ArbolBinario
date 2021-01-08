@@ -1,0 +1,48 @@
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\ArbolB\ArbolGenealogico\bin\Debug\netcoreapp3.1\ArbolGenealogico.exe
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\ArbolB\ArbolGenealogico\bin\Debug\netcoreapp3.1\ArbolGenealogico.deps.json
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\ArbolB\ArbolGenealogico\bin\Debug\netcoreapp3.1\ArbolGenealogico.runtimeconfig.json
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\ArbolB\ArbolGenealogico\bin\Debug\netcoreapp3.1\ArbolGenealogico.runtimeconfig.dev.json
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\ArbolB\ArbolGenealogico\bin\Debug\netcoreapp3.1\ArbolGenealogico.dll
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\ArbolB\ArbolGenealogico\bin\Debug\netcoreapp3.1\ArbolGenealogico.pdb
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\ArbolB\ArbolGenealogico\bin\Debug\netcoreapp3.1\ArbolB.dll
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\ArbolB\ArbolGenealogico\bin\Debug\netcoreapp3.1\ArbolB.pdb
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\ArbolB\ArbolGenealogico\obj\Debug\netcoreapp3.1\ArbolGenealogico.csprojAssemblyReference.cache
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\ArbolB\ArbolGenealogico\obj\Debug\netcoreapp3.1\ArbolGenealogico.AssemblyInfoInputs.cache
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\ArbolB\ArbolGenealogico\obj\Debug\netcoreapp3.1\ArbolGenealogico.AssemblyInfo.cs
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\ArbolB\ArbolGenealogico\obj\Debug\netcoreapp3.1\ArbolGenealogico.csproj.CoreCompileInputs.cache
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\ArbolB\ArbolGenealogico\obj\Debug\netcoreapp3.1\ArbolGenealogico.csproj.CopyComplete
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\ArbolB\ArbolGenealogico\obj\Debug\netcoreapp3.1\ArbolGenealogico.dll
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\ArbolB\ArbolGenealogico\obj\Debug\netcoreapp3.1\ArbolGenealogico.pdb
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\ArbolB\ArbolGenealogico\obj\Debug\netcoreapp3.1\ArbolGenealogico.genruntimeconfig.cache
+C:\Users\Kevin111\Documents\Tercero\Repositorios\ArbolB-Recursivo-05-01-2021\ArbolB\ArbolGenealogico\obj\Debug\netcoreapp3.1\ArbolGenealogico.csprojAssemblyReference.cache
+C:\Users\Kevin111\Documents\Tercero\Repositorios\ArbolB-Recursivo-05-01-2021\ArbolB\ArbolGenealogico\obj\Debug\netcoreapp3.1\ArbolGenealogico.AssemblyInfoInputs.cache
+C:\Users\Kevin111\Documents\Tercero\Repositorios\ArbolB-Recursivo-05-01-2021\ArbolB\ArbolGenealogico\obj\Debug\netcoreapp3.1\ArbolGenealogico.AssemblyInfo.cs
+C:\Users\Kevin111\Documents\Tercero\Repositorios\ArbolB-Recursivo-05-01-2021\ArbolB\ArbolGenealogico\obj\Debug\netcoreapp3.1\ArbolGenealogico.csproj.CoreCompileInputs.cache
+C:\Users\Kevin111\Documents\Tercero\Repositorios\ArbolB-Recursivo-05-01-2021\ArbolB\ArbolGenealogico\obj\Debug\netcoreapp3.1\ArbolGenealogico.dll
+C:\Users\Kevin111\Documents\Tercero\Repositorios\ArbolB-Recursivo-05-01-2021\ArbolB\ArbolGenealogico\obj\Debug\netcoreapp3.1\ArbolGenealogico.pdb
+C:\Users\Kevin111\Documents\Tercero\Repositorios\ArbolB-Recursivo-05-01-2021\ArbolB\ArbolGenealogico\bin\Debug\netcoreapp3.1\ArbolGenealogico.exe
+C:\Users\Kevin111\Documents\Tercero\Repositorios\ArbolB-Recursivo-05-01-2021\ArbolB\ArbolGenealogico\bin\Debug\netcoreapp3.1\ArbolGenealogico.deps.json
+C:\Users\Kevin111\Documents\Tercero\Repositorios\ArbolB-Recursivo-05-01-2021\ArbolB\ArbolGenealogico\bin\Debug\netcoreapp3.1\ArbolGenealogico.runtimeconfig.json
+C:\Users\Kevin111\Documents\Tercero\Repositorios\ArbolB-Recursivo-05-01-2021\ArbolB\ArbolGenealogico\bin\Debug\netcoreapp3.1\ArbolGenealogico.runtimeconfig.dev.json
+C:\Users\Kevin111\Documents\Tercero\Repositorios\ArbolB-Recursivo-05-01-2021\ArbolB\ArbolGenealogico\bin\Debug\netcoreapp3.1\ArbolGenealogico.dll
+C:\Users\Kevin111\Documents\Tercero\Repositorios\ArbolB-Recursivo-05-01-2021\ArbolB\ArbolGenealogico\bin\Debug\netcoreapp3.1\ArbolGenealogico.pdb
+C:\Users\Kevin111\Documents\Tercero\Repositorios\ArbolB-Recursivo-05-01-2021\ArbolB\ArbolGenealogico\bin\Debug\netcoreapp3.1\ArbolB.dll
+C:\Users\Kevin111\Documents\Tercero\Repositorios\ArbolB-Recursivo-05-01-2021\ArbolB\ArbolGenealogico\bin\Debug\netcoreapp3.1\ArbolB.pdb
+C:\Users\Kevin111\Documents\Tercero\Repositorios\ArbolB-Recursivo-05-01-2021\ArbolB\ArbolGenealogico\obj\Debug\netcoreapp3.1\ArbolGenealogico.csproj.CopyComplete
+C:\Users\Kevin111\Documents\Tercero\Repositorios\ArbolB-Recursivo-05-01-2021\ArbolB\ArbolGenealogico\obj\Debug\netcoreapp3.1\ArbolGenealogico.genruntimeconfig.cache
+C:\Users\hp\Source\Repos\ArbolBinario\ArbolB\ArbolGenealogico\bin\Debug\netcoreapp3.1\ArbolGenealogico.exe
+C:\Users\hp\Source\Repos\ArbolBinario\ArbolB\ArbolGenealogico\bin\Debug\netcoreapp3.1\ArbolGenealogico.deps.json
+C:\Users\hp\Source\Repos\ArbolBinario\ArbolB\ArbolGenealogico\bin\Debug\netcoreapp3.1\ArbolGenealogico.runtimeconfig.json
+C:\Users\hp\Source\Repos\ArbolBinario\ArbolB\ArbolGenealogico\bin\Debug\netcoreapp3.1\ArbolGenealogico.runtimeconfig.dev.json
+C:\Users\hp\Source\Repos\ArbolBinario\ArbolB\ArbolGenealogico\bin\Debug\netcoreapp3.1\ArbolGenealogico.dll
+C:\Users\hp\Source\Repos\ArbolBinario\ArbolB\ArbolGenealogico\bin\Debug\netcoreapp3.1\ArbolGenealogico.pdb
+C:\Users\hp\Source\Repos\ArbolBinario\ArbolB\ArbolGenealogico\bin\Debug\netcoreapp3.1\ArbolB.dll
+C:\Users\hp\Source\Repos\ArbolBinario\ArbolB\ArbolGenealogico\bin\Debug\netcoreapp3.1\ArbolB.pdb
+C:\Users\hp\Source\Repos\ArbolBinario\ArbolB\ArbolGenealogico\obj\Debug\netcoreapp3.1\ArbolGenealogico.csprojAssemblyReference.cache
+C:\Users\hp\Source\Repos\ArbolBinario\ArbolB\ArbolGenealogico\obj\Debug\netcoreapp3.1\ArbolGenealogico.AssemblyInfoInputs.cache
+C:\Users\hp\Source\Repos\ArbolBinario\ArbolB\ArbolGenealogico\obj\Debug\netcoreapp3.1\ArbolGenealogico.AssemblyInfo.cs
+C:\Users\hp\Source\Repos\ArbolBinario\ArbolB\ArbolGenealogico\obj\Debug\netcoreapp3.1\ArbolGenealogico.csproj.CoreCompileInputs.cache
+C:\Users\hp\Source\Repos\ArbolBinario\ArbolB\ArbolGenealogico\obj\Debug\netcoreapp3.1\ArbolGenealogico.csproj.CopyComplete
+C:\Users\hp\Source\Repos\ArbolBinario\ArbolB\ArbolGenealogico\obj\Debug\netcoreapp3.1\ArbolGenealogico.dll
+C:\Users\hp\Source\Repos\ArbolBinario\ArbolB\ArbolGenealogico\obj\Debug\netcoreapp3.1\ArbolGenealogico.pdb
+C:\Users\hp\Source\Repos\ArbolBinario\ArbolB\ArbolGenealogico\obj\Debug\netcoreapp3.1\ArbolGenealogico.genruntimeconfig.cache

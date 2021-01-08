@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArbolB", "ArbolB\ArbolB.csproj", "{FEEF4EFF-D662-4327-B044-8EB8EE4D9390}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArbolRamas", "ArbolGenealogico\ArbolRamas.csproj", "{4C83495C-B054-4B6B-96CC-769810777AF5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArbolTest", "ArbolTest\ArbolTest.csproj", "{72DE98DB-3EDC-42C4-B3B2-0A7DB20EABCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEEF4EFF-D662-4327-B044-8EB8EE4D9390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEEF4EFF-D662-4327-B044-8EB8EE4D9390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEEF4EFF-D662-4327-B044-8EB8EE4D9390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEEF4EFF-D662-4327-B044-8EB8EE4D9390}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C83495C-B054-4B6B-96CC-769810777AF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C83495C-B054-4B6B-96CC-769810777AF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C83495C-B054-4B6B-96CC-769810777AF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C83495C-B054-4B6B-96CC-769810777AF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72DE98DB-3EDC-42C4-B3B2-0A7DB20EABCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72DE98DB-3EDC-42C4-B3B2-0A7DB20EABCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72DE98DB-3EDC-42C4-B3B2-0A7DB20EABCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72DE98DB-3EDC-42C4-B3B2-0A7DB20EABCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CECFE75-3828-45FE-BD69-F23DE4FCA32A}
+	EndGlobalSection
+EndGlobal
